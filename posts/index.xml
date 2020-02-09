@@ -17,7 +17,9 @@
       <pubDate>Sun, 09 Feb 2020 12:19:47 -0600</pubDate>
       
       <guid>https://rnoronha.github.io/2020/02/my-first-post/</guid>
-      <description>This is the first post on my blog, to see how Github static page hosting works!</description>
+      <description>This is the first post on my blog, to see how Github static page hosting works!
+Let&amp;rsquo;s do some markdown: And a sub-title And a sub-sub title how far down do the titles go help I&amp;rsquo;m trapped in a title oh my god there&amp;rsquo;s no end this.is(code)
+this is longer code maybe it&#39;s some sort of shell script I don&#39;t know it isn&#39;t specified // This code is definitely javascript though // But which version?</description>
     </item>
     
   </channel>
