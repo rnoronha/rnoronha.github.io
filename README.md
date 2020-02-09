@@ -1,0 +1,1 @@
+This is the public portion of my generated blog.
