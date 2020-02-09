@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rodrigo&#39;s Blog</title>
-    <link>http://example.org/</link>
+    <link>https://rnoronha.github.io/</link>
     <description>Recent content on Rodrigo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 12:19:47 -0600</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rnoronha.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/2020/02/my-first-post/</link>
+      <link>https://rnoronha.github.io/2020/02/my-first-post/</link>
       <pubDate>Sun, 09 Feb 2020 12:19:47 -0600</pubDate>
       
-      <guid>http://example.org/2020/02/my-first-post/</guid>
+      <guid>https://rnoronha.github.io/2020/02/my-first-post/</guid>
       <description>This is the first post on my blog, to see how Github static page hosting works!</description>
     </item>
     
